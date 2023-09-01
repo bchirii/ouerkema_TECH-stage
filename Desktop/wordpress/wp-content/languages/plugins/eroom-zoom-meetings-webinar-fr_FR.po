@@ -1,0 +1,779 @@
+# Translation of Plugins - eRoom &#8211; Zoom Meetings &amp; Webinars - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - eRoom &#8211; Zoom Meetings &amp; Webinars - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-05 05:40:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - eRoom &#8211; Zoom Meetings &amp; Webinars - Stable (latest release)\n"
+
+#: admin_templates/go_pro.php:204
+msgid "Tested up to:"
+msgstr "Version testée jusqu’à :"
+
+#: admin_templates/go_pro.php:196
+msgid "Wordpress Version:"
+msgstr "Version de WordPress :"
+
+#: admin_templates/go_pro.php:188
+msgid "Last Update:"
+msgstr "Dernière mise à jour :"
+
+#: admin_templates/go_pro.php:182
+msgid "View Changelog"
+msgstr "Voir le journal des changements"
+
+#: admin_templates/go_pro.php:177
+msgid "Version:"
+msgstr "Version :"
+
+#: admin_templates/go_pro.php:169
+msgid "Refund Policy."
+msgstr "Politique de remboursement."
+
+#: admin_templates/go_pro.php:167
+msgid "from the date of purchase. We offer 30 days Money Back Guarantee based on"
+msgstr "à partir de la date d’achat. Nous offrons une garantie de remboursement de 30 jours basée sur"
+
+#: admin_templates/go_pro.php:165
+msgid "updates and support"
+msgstr "mises à jour et support"
+
+#: admin_templates/go_pro.php:162 admin_templates/go_pro.php:163
+msgid "1 year"
+msgstr "1 année"
+
+#: admin_templates/go_pro.php:158
+msgid "You get"
+msgstr "vous obtenez"
+
+#: admin_templates/go_pro.php:149
+msgid "Get now"
+msgstr "Obtenir maintenant"
+
+#: admin_templates/go_pro.php:142
+msgid "per year"
+msgstr "par an"
+
+#: admin_templates/go_pro.php:124 admin_templates/go_pro.php:161
+msgid "Lifetime"
+msgstr "À vie"
+
+#: admin_templates/go_pro.php:119
+msgid "Annual"
+msgstr "Annuellement"
+
+#: admin_templates/go_pro.php:117
+msgid "Pricing"
+msgstr "Tarification"
+
+#: admin_templates/go_pro.php:110
+msgid "Learn more."
+msgstr "En savoir plus."
+
+#: admin_templates/go_pro.php:102
+msgid "eRoom - WordPress and Zoom Integration"
+msgstr "eRoom - Intégration de WordPress et Zoom"
+
+#: admin_templates/go_pro.php:39
+msgid "Developer Oriented"
+msgstr "Orienté développeur"
+
+#: admin_templates/go_pro.php:38
+msgid "Up to 25 Sites"
+msgstr "Jusqu’à 25 sites"
+
+#: admin_templates/go_pro.php:34
+msgid "Most Popular"
+msgstr "Les plus populaires"
+
+#: admin_templates/go_pro.php:33
+msgid "Up to 5 Sites"
+msgstr "Jusqu’à 5 sites"
+
+#: admin_templates/go_pro.php:27
+msgid "Single Site"
+msgstr "Site unique"
+
+#: admin_templates/users.php:62
+msgid "Users not found!"
+msgstr "Utilisateurs non trouvés !"
+
+#: zoom-conference/StmZoomAdminMenus.php:108
+#: zoom-conference/StmZoomAdminMenus.php:109
+msgid "Upgrade"
+msgstr "Mise à niveau"
+
+#: wpcfto/settings/view/header.php:40
+msgid "Search"
+msgstr "Rechercher"
+
+#: wpcfto/metaboxes/google_fonts.php:45
+msgid "Right"
+msgstr "Droite"
+
+#: wpcfto/metaboxes/google_fonts.php:44
+msgid "Center"
+msgstr "Centre"
+
+#: wpcfto/metaboxes/google_fonts.php:43
+msgid "Left"
+msgstr "Gauche"
+
+#: wpcfto/metaboxes/google_fonts.php:37
+msgid "Vietnamese"
+msgstr "Vietnamien"
+
+#: wpcfto/metaboxes/google_fonts.php:36
+msgid "Latin ext"
+msgstr "Latin ext"
+
+#: wpcfto/metaboxes/google_fonts.php:35
+msgid "Latin"
+msgstr "Latin"
+
+#: wpcfto/metaboxes/google_fonts.php:34
+msgid "Greek ext"
+msgstr "Grec ext"
+
+#: wpcfto/metaboxes/google_fonts.php:33
+msgid "Greek"
+msgstr "Grec"
+
+#: wpcfto/metaboxes/google_fonts.php:32
+msgid "Cyrillic ext"
+msgstr "Cyrillique ext"
+
+#: wpcfto/metaboxes/google_fonts.php:31
+msgid "Cyrillic"
+msgstr "Cyrillique"
+
+#: wpcfto/metaboxes/google_fonts.php:25
+msgid "Black 900 italic"
+msgstr "Noir 900 italique"
+
+#: wpcfto/metaboxes/google_fonts.php:24
+msgid "Black 900"
+msgstr "Noir (900)"
+
+#: wpcfto/metaboxes/google_fonts.php:23
+msgid "Bold 700 italic"
+msgstr "Gras 700 italique"
+
+#: wpcfto/metaboxes/google_fonts.php:22
+msgid "Bold 700"
+msgstr "Gras 700"
+
+#: wpcfto/metaboxes/google_fonts.php:21
+msgid "Medium 500 italic"
+msgstr "Moyen 500 Italique"
+
+#: wpcfto/metaboxes/google_fonts.php:20
+msgid "Medium 500"
+msgstr "Moyen 500"
+
+#: wpcfto/metaboxes/google_fonts.php:19
+msgid "Regular 400 italic"
+msgstr "Régulier 400 italique"
+
+#: wpcfto/metaboxes/google_fonts.php:18
+msgid "Regular 400"
+msgstr "Régulier 400"
+
+#: wpcfto/metaboxes/google_fonts.php:17
+msgid "Light 300 italic"
+msgstr "Light 300 italique"
+
+#: wpcfto/metaboxes/google_fonts.php:16
+msgid "Light 300"
+msgstr "Léger 300"
+
+#: wpcfto/metaboxes/google_fonts.php:15
+msgid "Thin 100 italic"
+msgstr "Thin 100 italic"
+
+#: wpcfto/metaboxes/google_fonts.php:14
+msgid "Thin 100"
+msgstr "Fin 100"
+
+#: wpcfto/metaboxes/metabox.php:200
+msgid "Font Color"
+msgstr "Couleur de police"
+
+#: wpcfto/metaboxes/metabox.php:199
+msgid "Text Align"
+msgstr "Alignement de texte"
+
+#: wpcfto/metaboxes/metabox.php:198
+msgid "Font Subsets"
+msgstr "Sous-ensembles de police"
+
+#: wpcfto/metaboxes/metabox.php:197
+msgid "Font Weignt & Style"
+msgstr "Poids et style de la police"
+
+#: wpcfto/metaboxes/metabox.php:196
+msgid "Backup Font Family"
+msgstr "Famille de police de secours"
+
+#: wpcfto/metaboxes/metabox.php:195
+msgid "Font Family"
+msgstr "Famille de police"
+
+#: wpcfto/metaboxes/metabox.php:194
+msgid "Letter spacing"
+msgstr "Espacement de lettre"
+
+#: wpcfto/metaboxes/metabox.php:193
+msgid "Word spacing"
+msgstr "Espacement de mot"
+
+#: wpcfto/metaboxes/metabox.php:192
+msgid "Line height"
+msgstr "Hauteur de ligne"
+
+#: wpcfto/metaboxes/metabox.php:191
+msgid "Font size"
+msgstr "Taille de police"
+
+#: zoom-conference/StmZoomPostTypes.php:202
+#: zoom-conference/StmZoomPostTypes.php:276
+msgid "Waiting room"
+msgstr "Salle d’attente"
+
+#: zoom-conference/StmZoomAdminMenus.php:155
+msgid "Meeting will be created when someone books an Appointment"
+msgstr "La réunion sera créée lorsque quelqu’un réservera un rendez-vous"
+
+#: zoom-conference/StmZoomAdminMenus.php:153
+msgid "Bookit Appointment Integration"
+msgstr "Intégration de rendez-vous Bookit"
+
+#: zoom-conference/StmZoomPostTypes.php:504
+msgid "Meeting Notification: %s"
+msgstr "Notification de réunion : %s"
+
+#: zoom-conference/StmZoomPostTypes.php:499
+msgid "Your meeting url: "
+msgstr "Votre url de réunion : "
+
+#: zoom-conference/StmZoomPostTypes.php:498
+msgid "Hello, your meeting will begin at: %s, %s"
+msgstr "Bonjour, votre réunion commencera à : %s, %s"
+
+#: zoom-conference/StmZoomPostTypes.php:416
+msgid "Customer: %s, %s, %s. Payment via %s: %s"
+msgstr "Client : %s, %s, %s. Paiement via %s : %s"
+
+#: zoom-conference/StmZoomPostTypes.php:409
+msgid "Appointment #%s - %s"
+msgstr "Rendez-vous #%s - %s"
+
+#: zoom-conference/StmZoomPostTypes.php:218
+#: zoom-conference/StmZoomPostTypes.php:292
+msgid "Participants video"
+msgstr "Vidéo des participants"
+
+#: zoom-conference/StmZoomPostTypes.php:214
+#: zoom-conference/StmZoomPostTypes.php:288
+msgid "Host video"
+msgstr "Vidéo de l’hôte"
+
+#: zoom-conference/StmZoomAdminMenus.php:213
+msgid "Upgrade to Pro"
+msgstr "Mettre à niveau en Pro"
+
+#: zoom-conference/StmZoomAdminMenus.php:209
+msgid "Settings"
+msgstr "Réglages"
+
+#: zoom-conference/StmZoomPostTypes.php:357
+msgid "Webinar shortcode"
+msgstr "Code court du webinair"
+
+#: zoom-conference/StmZoomPostTypes.php:272
+msgid "Webinar password"
+msgstr "Mot de passe du webinaire"
+
+#: zoom-conference/StmZoomPostTypes.php:268
+msgid "Webinar duration (in min)"
+msgstr "Durée du webinaire (en min)"
+
+#: zoom-conference/StmZoomPostTypes.php:262
+msgid "Webinar timezone"
+msgstr "Fuseau horaire du webinaire"
+
+#: zoom-conference/StmZoomPostTypes.php:258
+msgid "Webinar time"
+msgstr "Heure du webinaire"
+
+#: zoom-conference/StmZoomPostTypes.php:254 zoom-conference/StmZoom.php:316
+msgid "Webinar date"
+msgstr "Date du webinaire"
+
+#: zoom-conference/StmZoomPostTypes.php:249
+msgid "Webinar host"
+msgstr "Hôte du webinaire"
+
+#: zoom-conference/StmZoomPostTypes.php:245
+msgid "Webinar agenda"
+msgstr "Agenda du webinaire"
+
+#: zoom-conference/StmZoomPostTypes.php:241
+msgid "Webinar settings"
+msgstr "Réglages de webinaire"
+
+#: zoom-conference/StmZoomPostTypes.php:121
+msgid "Search webinar"
+msgstr "Rechercher un webinaire"
+
+#: zoom-conference/StmZoomPostTypes.php:120
+msgid "View webinar"
+msgstr "Voir le webinaire"
+
+#: zoom-conference/StmZoomPostTypes.php:119
+msgid "New webinar"
+msgstr "Nouveau webinaire"
+
+#: zoom-conference/StmZoomPostTypes.php:118
+msgid "Edit webinar"
+msgstr "Modifier le webinaire"
+
+#: zoom-conference/StmZoom.php:279
+msgid "Webinar starts in"
+msgstr "Le webinaire commence dans"
+
+#: zoom-conference/StmZoomPostTypes.php:115
+#: elementor/widgets/stm_zoom_webinar.php:96 vc/main.php:35
+msgid "Webinar"
+msgstr "Webinaire"
+
+#: elementor/widgets/stm_zoom_webinar.php:46 vc/main.php:25
+msgid "Zoom Webinar"
+msgstr "Webinaire ZOOM"
+
+#: zoom-conference/StmZoomPostTypes.php:114
+#: zoom-conference/StmZoomPostTypes.php:124
+#: zoom-conference/StmZoomAdminMenus.php:81
+#: zoom-conference/StmZoomAdminMenus.php:82
+#: elementor/widgets/stm_zoom_meetings_grid.php:102 vc/main.php:72
+msgid "Webinars"
+msgstr "Webinaires"
+
+#: elementor/widgets/stm_zoom_meetings_grid.php:46 vc/main.php:79
+msgid "Zoom Meetings/Webinars Grid"
+msgstr "Grille de réunions/webinaires Zoom"
+
+#: wpcfto/taxonomy_meta/fields/image.php:14
+msgid "Delete image"
+msgstr "Supprimer l’image"
+
+#: wpcfto/helpers/file_upload.php:58
+msgid "Invalid file extension"
+msgstr "Extension de fichier non valide"
+
+#: wpcfto/helpers/file_upload.php:47
+msgid "Please, select file"
+msgstr "Veuillez sélectionner un fichier"
+
+#: wpcfto/helpers/file_upload.php:20
+msgid "Error occurred, please try again"
+msgstr "Une erreur s’est produite, veuillez réessayer"
+
+#: wpcfto/metaboxes/fields/duration.php:22
+msgid "duration"
+msgstr "durée"
+
+#: zoom-conference/StmZoom.php:279
+msgid "Meeting starts in"
+msgstr "La réunion commence dans"
+
+#: zoom-conference/StmZoomAdminMenus.php:141
+msgid "Shortcodes"
+msgstr "Codes courts"
+
+#: zoom-conference/StmZoom.php:341
+msgid "Join in zoom app"
+msgstr "Rejoindre via Zoom"
+
+#: zoom-conference/StmZoom.php:338
+msgid "Join in browser"
+msgstr "Rejoindre via le navigateur"
+
+#: elementor/widgets/stm_zoom_meeting.php:46 vc/main.php:7
+msgid "Zoom Meeting"
+msgstr "Réunion Zoom"
+
+#: elementor/widgets/stm_zoom_meetings_grid.php:131 vc/main.php:45
+msgid "Count of meetings"
+msgstr "Nombre de réunions"
+
+#: elementor/widgets/stm_zoom_meetings_grid.php:113 vc/main.php:51
+msgid "Meetings per row"
+msgstr "Réunions par ligne"
+
+#: elementor/widgets/stm_zoom_meetings_grid.php:100 vc/main.php:70
+msgid "Products"
+msgstr "Produits"
+
+#: elementor/widgets/stm_zoom_meetings_grid.php:96 vc/main.php:67
+msgid "Meeting type"
+msgstr "Type de réunion"
+
+#: templates/single/meeting_view.php:16
+msgid "Guest"
+msgstr "Invité"
+
+#: admin_templates/add_users.php:99
+msgid "Save"
+msgstr "Enregistrer"
+
+#: admin_templates/add_users.php:91
+msgid "User Type (Required)"
+msgstr "Type d’utilisateur (nécessaire)"
+
+#: admin_templates/add_users.php:87
+msgid "Last Name"
+msgstr "Prénom"
+
+#: admin_templates/add_users.php:83
+msgid "First Name"
+msgstr "Nom"
+
+#: admin_templates/add_users.php:79
+msgid "Email (required)"
+msgstr "E-mail (nécessaire)"
+
+#: admin_templates/add_users.php:69
+msgid ""
+"\n"
+"                <b>Create</b> - User will get an email sent from Zoom. There is a confirmation link in this email. The user will then need to use the link to activate their Zoom account. The user can then set or change their password.<br>\n"
+"                <b>Auto Create</b> - This action is provided for the enterprise customer who has a managed domain. This feature is disabled by default because of the security risk involved in creating a user who does not belong to your domain.<br>\n"
+"                <b>Cust Create</b> - Users created via this option do not have passwords and will not have the ability to log into the Zoom Web Portal or the Zoom Client. To use this option, you must contact the ISV Platform Sales team at isv@zoom.us.<br>\n"
+"                <b>SSO Create</b> - This action is provided for the enabled “Pre-provisioning SSO User” option. A user created in this way has no password. If not a basic user, a personal vanity URL using the user name (no domain) of the provisioning email will be generated. If the user name or PMI is invalid or occupied, it will use a random number or random personal vanity URL.\n"
+"                "
+msgstr ""
+"\n"
+"   \n"
+"            <b>Création</b> - L’utilisateur recevra un e-mail envoyé par Zoom. Cet e-mail contient un lien de confirmation. L’utilisateur devra alors utiliser ce lien pour activer son compte Zoom. L’utilisateur peut ensuite définir ou modifier son mot de passe.<br>\n"
+"               <b>Création automatique</b> - Cette action est prévue pour les entreprises clientes qui ont un domaine géré. Cette fonction est désactivée par défaut en raison du risque de sécurité lié à la création d’un utilisateur qui n’appartient pas à votre domaine.<br>\n"
+"               <b>Création personnalisée</b> - Les utilisateurs créés via cette option n’ont pas de mot de passe et ne pourront pas se connecter au portail Web Zoom ou au client Zoom. Pour utiliser cette option, vous devez contacter l’équipe de vente de la plateforme ISV à l’adresse isv@zoom.us.<br>\n"
+"               <b>SSO Create</b></br></br></br>- Cette action est fournie pour l’option activée « Pré-provisionnner l’utilisateur SSO ». Un utilisateur créé de cette manière n’a pas de mot de passe. S’il ne s’agit pas d’un utilisateur de base, une URL personnelle utilisant le nom d’utilisateur (pas de domaine) de l’e-mail de provisionnement sera générée. Si le nom d’utilisateur ou le PMI est invalide ou occupé, un nombre aléatoire ou une URL personnelle aléatoire sera utilisée.\n"
+"                "
+
+#: admin_templates/add_users.php:60
+msgid "Action (Required)"
+msgstr "Action (nécessaire)"
+
+#: admin_templates/add_users.php:52
+msgid "Add User"
+msgstr "Ajouter un utilisateur"
+
+#: admin_templates/add_users.php:44
+msgid "You don't have permission to add a new user"
+msgstr "Vous n’avez pas la permission d’ajouter un nouvel utilisateur"
+
+#: admin_templates/add_users.php:40
+msgid "Error"
+msgstr "Erreur"
+
+#: admin_templates/add_users.php:33
+msgid "User added successfully"
+msgstr "L’utilisateur a bien été ajouté"
+
+#: admin_templates/add_users.php:15
+msgid "Provide API key & API secret key to crete new user"
+msgstr "Fournir la clé API et la clé secrète API pour créer un nouvel utilisateur"
+
+#: admin_templates/assign_host.php:53
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: admin_templates/assign_host.php:27
+msgid "Username"
+msgstr "Identifiant"
+
+#: admin_templates/assign_host.php:18
+msgid "Copy Host ID from users <a href=\""
+msgstr "Copier l’ID d’hôte des utilisateurs <a href=\""
+
+#: admin_templates/assign_host.php:15
+msgid "For developers only"
+msgstr "Pour les développeurs uniquement"
+
+#: admin_templates/assign_host.php:14
+msgid "Assign Zoom host id to WordPress users"
+msgstr "Assigner un id d’hôte Zoom aux utilisateurs WordPress"
+
+#: admin_templates/users.php:33
+msgid "Status"
+msgstr "État"
+
+#: admin_templates/users.php:32
+msgid "Last Client"
+msgstr "Dernier client"
+
+#: admin_templates/users.php:31
+msgid "Last login"
+msgstr "Dernière connexion"
+
+#: admin_templates/users.php:30
+msgid "Created on"
+msgstr "Créé le"
+
+#: admin_templates/users.php:29
+msgid "Last name"
+msgstr "Prénom"
+
+#: admin_templates/users.php:28
+msgid "Name"
+msgstr "Prénom"
+
+#: admin_templates/users.php:27 admin_templates/assign_host.php:26
+msgid "Email"
+msgstr "E-mail"
+
+#: admin_templates/users.php:26 admin_templates/assign_host.php:28
+msgid "Host ID"
+msgstr "ID d’hôte"
+
+#: admin_templates/users.php:20
+msgid "Delete cache"
+msgstr "Supprimer le cache"
+
+#: admin_templates/reports.php:36
+msgid "Meeting Minutes"
+msgstr "Minutes de réunion"
+
+#: admin_templates/reports.php:35
+msgid "Participants"
+msgstr "Participants"
+
+#: zoom-conference/StmZoomPostTypes.php:89
+#: zoom-conference/StmZoomPostTypes.php:99 admin_templates/reports.php:34
+#: elementor/widgets/stm_zoom_meetings_grid.php:101 vc/main.php:71
+msgid "Meetings"
+msgstr "Réunions"
+
+#: admin_templates/reports.php:33
+msgid "New Users"
+msgstr "Nouveaux utilisateurs"
+
+#: admin_templates/reports.php:32
+msgid "Date"
+msgstr "Date"
+
+#: admin_templates/reports.php:7
+msgid "Show"
+msgstr "Afficher"
+
+#: admin_templates/reports.php:6
+msgid "Enter year e.g. 2020"
+msgstr "Saisir l’année. Ex : 2020"
+
+#: admin_templates/reports.php:4
+msgid "Enter month e.g. 03"
+msgstr "Saisir le mois. Ex 03"
+
+#: wpcfto/metaboxes/metabox.php:35
+msgid "Choose User"
+msgstr "Choix d’utilisateur"
+
+#: wpcfto/taxonomy_meta/fields/image.php:48
+msgid "Use this media"
+msgstr "Utiliser ce média"
+
+#: wpcfto/taxonomy_meta/fields/image.php:46
+msgid "Select or Upload Media Of Your Chosen Persuasion"
+msgstr "Sélectionnez ou téléversez un média de votre choix"
+
+#: wpcfto/taxonomy_meta/fields/image.php:11
+msgid "Add image"
+msgstr "Ajout d’image"
+
+#: wpcfto/settings/settings.php:56
+msgid "Choose Page"
+msgstr "Choix de page"
+
+#: wpcfto/settings/view/header.php:47
+msgid "Save Settings"
+msgstr "Enregistrer les réglages"
+
+#: zoom-conference/StmZoomPostTypes.php:230
+#: zoom-conference/StmZoomPostTypes.php:304
+msgid "Alternative hosts"
+msgstr "Hôtes alternatifs"
+
+#: zoom-conference/StmZoomPostTypes.php:226
+#: zoom-conference/StmZoomPostTypes.php:300
+msgid "Enforce Login"
+msgstr "Forcer la connexion"
+
+#: zoom-conference/StmZoomPostTypes.php:222
+#: zoom-conference/StmZoomPostTypes.php:296
+msgid "Mute Participants upon entry"
+msgstr "Micros coupés à l’entrée"
+
+#: zoom-conference/StmZoomPostTypes.php:206
+#: zoom-conference/StmZoomPostTypes.php:280
+msgid "Join Before Host"
+msgstr "Joindre avant l’hôte"
+
+#: zoom-conference/StmZoomPostTypes.php:198
+msgid "Meeting password"
+msgstr "Mot de passe de la réunion"
+
+#: zoom-conference/StmZoomPostTypes.php:194
+msgid "Meeting duration (in min)"
+msgstr "Durée de la réunion (en min)"
+
+#: zoom-conference/StmZoomPostTypes.php:188
+msgid "Meeting timezone"
+msgstr "Fuseau horaire de la réunion"
+
+#: zoom-conference/StmZoomPostTypes.php:184
+msgid "Meeting time"
+msgstr "Heure de la réunion"
+
+#: zoom-conference/StmZoomPostTypes.php:180 zoom-conference/StmZoom.php:316
+msgid "Meeting date"
+msgstr "Date de la réunion"
+
+#: zoom-conference/StmZoomPostTypes.php:175
+msgid "Meeting host"
+msgstr "Hôte de la réunion"
+
+#: zoom-conference/StmZoomPostTypes.php:171
+msgid "Meeting agenda"
+msgstr "Agenda de la réunion"
+
+#: zoom-conference/StmZoomPostTypes.php:167
+msgid "Meeting settings"
+msgstr "Réglages de réunion"
+
+#: zoom-conference/StmZoomPostTypes.php:149
+#: zoom-conference/StmZoomPostTypes.php:155
+msgid "Post settings"
+msgstr "Réglages d’articles"
+
+#: zoom-conference/StmZoomPostTypes.php:97
+#: zoom-conference/StmZoomPostTypes.php:98
+#: zoom-conference/StmZoomPostTypes.php:122
+#: zoom-conference/StmZoomPostTypes.php:123
+msgid "Not found"
+msgstr "Introuvable"
+
+#: zoom-conference/StmZoomPostTypes.php:96
+msgid "Search meeting"
+msgstr "Rechercher une réunion"
+
+#: zoom-conference/StmZoomPostTypes.php:95
+msgid "View meeting"
+msgstr "Voir la réunion"
+
+#: zoom-conference/StmZoomPostTypes.php:94
+msgid "New meeting"
+msgstr "Nouvelle réunion"
+
+#: zoom-conference/StmZoomPostTypes.php:93
+msgid "Edit meeting"
+msgstr "Modifier la réunion"
+
+#: zoom-conference/StmZoomPostTypes.php:91
+#: zoom-conference/StmZoomPostTypes.php:92
+#: zoom-conference/StmZoomPostTypes.php:116
+#: zoom-conference/StmZoomPostTypes.php:117
+msgid "Add new"
+msgstr "Ajouter"
+
+#: zoom-conference/StmZoomAdminMenus.php:135
+msgid "API Secret Key"
+msgstr "Clé secrète API"
+
+#: zoom-conference/StmZoomAdminMenus.php:131
+msgid "Please follow this <a href=\"https://support.stylemixthemes.com/manuals/eroom/#how-to-obtain-apis\" target=\"_blank\">guide</a> to generate API values from your Zoom account"
+msgstr "Veuillez suivre ce <a href=\"https://support.stylemixthemes.com/manuals/eroom/#how-to-obtain-apis\" target=\"_blank\">guide</a> pour générer des valeurs API à partir de votre compte Zoom"
+
+#: zoom-conference/StmZoomAdminMenus.php:129
+msgid "API key"
+msgstr "Clé API"
+
+#: zoom-conference/StmZoomAdminMenus.php:125
+msgid "Main settings"
+msgstr "Réglages principaux"
+
+#: zoom-conference/StmZoomAdminMenus.php:73
+msgid "Assign host id"
+msgstr "Assigner un id d’hôte"
+
+#: zoom-conference/StmZoomAdminMenus.php:68 admin_templates/reports.php:2
+msgid "Reports"
+msgstr "Rapports"
+
+#: zoom-conference/StmZoomAdminMenus.php:63
+msgid "Add user"
+msgstr "Ajouter un utilisateur"
+
+#: zoom-conference/StmZoomAdminMenus.php:58 admin_templates/users.php:18
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: zoom-conference/StmZoom.php:333
+msgid "Password: "
+msgstr "Mot de passe : "
+
+#: zoom-conference/StmZoom.php:71
+msgid "Seconds"
+msgstr "Secondes"
+
+#: zoom-conference/StmZoom.php:70 wpcfto/metaboxes/fields/duration.php:31
+msgid "Minutes"
+msgstr "Minutes"
+
+#: zoom-conference/StmZoom.php:69 wpcfto/metaboxes/fields/duration.php:32
+msgid "Hours"
+msgstr "Heures"
+
+#: zoom-conference/StmZoom.php:68 wpcfto/metaboxes/fields/duration.php:33
+msgid "Days"
+msgstr "Jours"
+
+#: zoom-conference/StmZoomPostTypes.php:340
+msgid "Meeting shortcode"
+msgstr "Code court de réunion"
+
+#: zoom-conference/StmZoomPostTypes.php:90
+#: elementor/widgets/stm_zoom_meeting.php:96 vc/main.php:17
+msgid "Meeting"
+msgstr "Réunion"
+
+#: elementor/widgets/stm_zoom_meetings_grid.php:88
+#: elementor/widgets/stm_zoom_webinar.php:88
+#: elementor/widgets/stm_zoom_meeting.php:88 vc/main.php:12 vc/main.php:30
+#: vc/main.php:84
+msgid "Content"
+msgstr "Contenu"
+
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr "https://stylemixthemes.com/"
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr "StylemixThemes"
+
+#. Description of the plugin
+msgid "eRoom Zoom Meetings & Webinar WordPress Plugin provides you with great functionality of managing Zoom meetings, scheduling options, and users directly from your WordPress dashboard."
+msgstr "l’extension WordPress eRoom Zoom Meetings & Webinar vous offre une grande fonctionnalité de gestion des réunions Zoom, des options de programmation et des utilisateurs directement depuis votre tableau de bord WordPress."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/zoom-video-conference/"
+msgstr "https://wordpress.org/plugins/zoom-video-conference/"
+
+#. Plugin Name of the plugin
+msgid "eRoom - Zoom Meetings & Webinar"
+msgstr "eRoom - Réunions et webinaires Zoom"

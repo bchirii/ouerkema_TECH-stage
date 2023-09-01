@@ -1,0 +1,92 @@
+# Translation of Plugins - Advanced WordPress Reset - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Advanced WordPress Reset - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-11 09:57:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Advanced WordPress Reset - Stable (latest release)\n"
+
+#: includes/endpoints/abstract-controller.class.php:19
+msgid "Not sufficient permissions!"
+msgstr "Droits non suffisants !"
+
+#: awp-reset-front/templates/home-template.php:22
+#: awp-reset-front/templates/reset-template.php:69
+#: awp-reset-front/templates/reset-template.php:73
+#: awp-reset-front/templates/reset-template.php:137
+#: awp-reset-front/templates/reset-template.php:445
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: awp-reset-front/templates/tools-template.php:57
+msgid "Total"
+msgstr "Total"
+
+#: awp-reset-front/templates/reset-template.php:152
+msgid "Custom reset"
+msgstr "Réinitialisation personnalisée"
+
+#: advanced-wp-reset.class.php:48
+msgid "Support"
+msgstr "Support"
+
+#: js.config.inc.php:20
+msgid "Unknown error!"
+msgstr "Erreur inconnue !"
+
+#: js.config.inc.php:19
+msgid "Keep current plugin"
+msgstr "Conserver l’extension actuelle"
+
+#: js.config.inc.php:18
+msgid "Keep active theme"
+msgstr "Conserver le thème actuel"
+
+#: js.config.inc.php:11
+msgid "You are about to perform the following action:"
+msgstr "Vous êtes sur le point d’effectuer l’action suivante :"
+
+#: js.config.inc.php:10
+msgid "You are about to reset your database. Any content will be lost!"
+msgstr "Vous êtes sur le point de réinitialiser votre base de données. Tout contenu sera perdu !"
+
+#: js.config.inc.php:17
+msgid "Continue"
+msgstr "Poursuivre"
+
+#: js.config.inc.php:16
+msgid "Cancel"
+msgstr "Annuler"
+
+#: js.config.inc.php:15
+msgid "Done!"
+msgstr "Terminé !"
+
+#: js.config.inc.php:14
+msgid "Processing..."
+msgstr "Traitement en cours…"
+
+#. Author URI of the plugin
+msgid "http://www.sigmaplugin.com"
+msgstr "http://www.sigmaplugin.com"
+
+#. Author of the plugin
+msgid "Younes JFR."
+msgstr "Younes JFR."
+
+#. Plugin URI of the plugin
+msgid "http://sigmaplugin.com/downloads/advanced-wordpress-reset"
+msgstr "http://sigmaplugin.com/downloads/advanced-wordpress-reset"
+
+#. Plugin Name of the plugin
+msgid "Advanced WordPress Reset"
+msgstr "Advanced WordPress Reset"
+
+#: js.config.inc.php:9
+msgid "Are you sure to continue?"
+msgstr "Confirmez-vous vouloir poursuivre ?"
